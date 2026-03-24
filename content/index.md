@@ -6,7 +6,7 @@ title:
 
 <div style="display: flex; gap: 20px;">
 <div style="flex: 1;">
-<img src="/Attachment/me.jpg" width="80%">
+<img src="./attachment/me.jpg" width="80%">
 </div>
 <div style="flex: 1;">
 <p>👨‍💻 <strong>Name : Tae Gyun Kim</strong></p>
@@ -19,20 +19,48 @@ title:
 
 
 <div style="display: flex; gap: 20px;">
-<img src="./Attachment/me.jpg" width="80%">
+<div style="flex: 1;">
+<img src="/attachment/me.jpg" width="80%">
+</div>
+<div style="flex: 1;">
+<p>👨‍💻 <strong>Name : Tae Gyun Kim</strong></p>
+<p>📱 <strong>h.p : 010-3069-3943</strong></p>
+<p>📧 <strong>Email : kimtg0003@gmail.com</strong></p>
+<p><strong>🖥 Github : <a href="https://github.com/ASOTEA">ASOTEA</a></strong></p>
+<p><strong>✏️ Education : Kangnam University / Double Major in Data Science and Semiconductor System convergence</strong></p>
+</div>
+</div>
+
+
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
+<img src="content/attachment/me.jpg" width="80%">
+</div>
+<div style="flex: 1;">
+<p>👨‍💻 <strong>Name : Tae Gyun Kim</strong></p>
+<p>📱 <strong>h.p : 010-3069-3943</strong></p>
+<p>📧 <strong>Email : kimtg0003@gmail.com</strong></p>
+<p><strong>🖥 Github : <a href="https://github.com/ASOTEA">ASOTEA</a></strong></p>
+<p><strong>✏️ Education : Kangnam University / Double Major in Data Science and Semiconductor System convergence</strong></p>
+</div>
 </div>
 
 <div style="display: flex; gap: 20px;">
-<img src="content/Attachment/me.jpg" width="80%">
-</div>
-
-<div style="display: flex; gap: 20px;">
-<img src="/content/Attachment/me.jpg" width="80%">
-</div>
-
-<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
 <img src="../me.jpg" width="80%">
 </div>
+<div style="flex: 1;">
+<p>👨‍💻 <strong>Name : Tae Gyun Kim</strong></p>
+<p>📱 <strong>h.p : 010-3069-3943</strong></p>
+<p>📧 <strong>Email : kimtg0003@gmail.com</strong></p>
+<p><strong>🖥 Github : <a href="https://github.com/ASOTEA">ASOTEA</a></strong></p>
+<p><strong>✏️ Education : Kangnam University / Double Major in Data Science and Semiconductor System convergence</strong></p>
+</div>
+</div>
+
+
+
+
 
 ---
 # 👨🏻‍🎓 자기소개
@@ -49,9 +77,7 @@ title:
 
 ---
 
-## 🔘 [오디오 언어모델의 경량 모델링 레서피 탐구(2025)](https://2dc6b84c.blog-5na.pages.dev/%EC%98%A4%EB%94%94%EC%98%A4-%EC%96%B8%EC%96%B4%EB%AA%A8%EB%8D%B8%EC%9D%98-%EA%B2%BD%EB%9F%89-%EB%AA%A8%EB%8D%B8%EB%A7%81-%EB%A0%88%EC%84%9C%ED%94%BC-%ED%83%90%EA%B5%AC)
-
-
+## 🔘 오디오 언어모델의 경량 모델링 레서피 탐구(2025)
 - SALMONN 기반 Audio LLM을 대상으로, **베이스라인 성능을 유지하면서 메모리와 추론 지연을 줄이기 위한 경량화 전략**을 실험적으로 탐구함
 - Audio Encoder, LLM, Prompt, Q-Former 등 구성 요소를 분리하여 교체·비교 실험을 수행하고, 성능(AAC, ASR)과 효율(Memory, Latency)을 기준으로 최적 조합을 선정함
 - **메모리를 약 9.2GB에서 5.3GB로 절감하면서 AAC 성능을 유의미하게 향상**시켰고, ASR은 베이스라인과 유사한 수준을 유지함
