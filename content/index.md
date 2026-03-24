@@ -1,6 +1,7 @@
 ---
-title: Protfolio
+title:
 ---
+
 
 
 <div style="display: flex; gap: 20px;">
@@ -17,6 +18,21 @@ title: Protfolio
 </div>
 
 
+<div style="display: flex; gap: 20px;">
+<img src="./Attachment/me.jpg" width="80%">
+</div>
+
+<div style="display: flex; gap: 20px;">
+<img src="content/Attachment/me.jpg" width="80%">
+</div>
+
+<div style="display: flex; gap: 20px;">
+<img src="/content/Attachment/me.jpg" width="80%">
+</div>
+
+<div style="display: flex; gap: 20px;">
+<img src="../me.jpg" width="80%">
+</div>
 
 ---
 # 👨🏻‍🎓 자기소개
