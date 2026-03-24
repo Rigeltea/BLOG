@@ -5,7 +5,7 @@ title: Protfolio
 
 <div style="display: flex; gap: 20px;">
 <div style="flex: 1;">
-<img src="public/Attachment/me.jpg" width="80%">
+<img src="./Attachment/me.jpg" width="80%">
 </div>
 <div style="flex: 1;">
 <p>👨‍💻 <strong>Name : Tae Gyun Kim</strong></p>
@@ -15,11 +15,6 @@ title: Protfolio
 <p><strong>✏️ Education : Kangnam University / Double Major in Data Science and Semiconductor System convergence</strong></p>
 </div>
 </div>
-
-
-
-
-
 
 
 ---
@@ -37,7 +32,8 @@ title: Protfolio
 
 ---
 
-## 🔘 [오디오 언어모델의 경량 모델링 레서피 탐구(2025)](obsidian://open?vault=BLOG&file=content%2F%EC%98%A4%EB%94%94%EC%98%A4%20%EC%96%B8%EC%96%B4%EB%AA%A8%EB%8D%B8%EC%9D%98%20%EA%B2%BD%EB%9F%89%20%EB%AA%A8%EB%8D%B8%EB%A7%81%20%EB%A0%88%EC%84%9C%ED%94%BC%20%ED%83%90%EA%B5%AC)
+## 🔘 [[오디오 언어모델의 경량 모델링 레서피 탐구(2025)]]
+
 
 - SALMONN 기반 Audio LLM을 대상으로, **베이스라인 성능을 유지하면서 메모리와 추론 지연을 줄이기 위한 경량화 전략**을 실험적으로 탐구함
 - Audio Encoder, LLM, Prompt, Q-Former 등 구성 요소를 분리하여 교체·비교 실험을 수행하고, 성능(AAC, ASR)과 효율(Memory, Latency)을 기준으로 최적 조합을 선정함
