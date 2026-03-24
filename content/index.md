@@ -89,3 +89,13 @@ F1 Score (0.68412 → **0.70444**)
 </div>
 
 
+<div style="display: flex; gap: 20px; align-items: center;">  
+<div style="flex: 1;"> 
+<p><strong> SALMONN</strong></p>
+<img src="./attachment/salmonn.PNG" width="80%">  
+</div>
+<div style="flex: 1;">
+<p><strong> CV - 03 Model</strong></p>
+<img src="./attachment/cv-03.PNG" width="120%">  
+</div>
+</div>
