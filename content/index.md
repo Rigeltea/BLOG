@@ -18,49 +18,6 @@ title:
 </div>
 
 
-<div style="display: flex; gap: 20px;">
-<div style="flex: 1;">
-<img src="/attachment/me.jpg" width="80%">
-</div>
-<div style="flex: 1;">
-<p>👨‍💻 <strong>Name : Tae Gyun Kim</strong></p>
-<p>📱 <strong>h.p : 010-3069-3943</strong></p>
-<p>📧 <strong>Email : kimtg0003@gmail.com</strong></p>
-<p><strong>🖥 Github : <a href="https://github.com/ASOTEA">ASOTEA</a></strong></p>
-<p><strong>✏️ Education : Kangnam University / Double Major in Data Science and Semiconductor System convergence</strong></p>
-</div>
-</div>
-
-
-<div style="display: flex; gap: 20px;">
-<div style="flex: 1;">
-<img src="content/attachment/me.jpg" width="80%">
-</div>
-<div style="flex: 1;">
-<p>👨‍💻 <strong>Name : Tae Gyun Kim</strong></p>
-<p>📱 <strong>h.p : 010-3069-3943</strong></p>
-<p>📧 <strong>Email : kimtg0003@gmail.com</strong></p>
-<p><strong>🖥 Github : <a href="https://github.com/ASOTEA">ASOTEA</a></strong></p>
-<p><strong>✏️ Education : Kangnam University / Double Major in Data Science and Semiconductor System convergence</strong></p>
-</div>
-</div>
-
-<div style="display: flex; gap: 20px;">
-<div style="flex: 1;">
-<img src="../me.jpg" width="80%">
-</div>
-<div style="flex: 1;">
-<p>👨‍💻 <strong>Name : Tae Gyun Kim</strong></p>
-<p>📱 <strong>h.p : 010-3069-3943</strong></p>
-<p>📧 <strong>Email : kimtg0003@gmail.com</strong></p>
-<p><strong>🖥 Github : <a href="https://github.com/ASOTEA">ASOTEA</a></strong></p>
-<p><strong>✏️ Education : Kangnam University / Double Major in Data Science and Semiconductor System convergence</strong></p>
-</div>
-</div>
-
-
-
-
 
 ---
 # 👨🏻‍🎓 자기소개
