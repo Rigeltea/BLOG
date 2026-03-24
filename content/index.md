@@ -5,7 +5,7 @@ title: Protfolio
 
 <div style="display: flex; gap: 20px;">
 <div style="flex: 1;">
-<img src="./Attachment/me.jpg" width="80%">
+<img src="/Attachment/me.jpg" width="80%">
 </div>
 <div style="flex: 1;">
 <p>👨‍💻 <strong>Name : Tae Gyun Kim</strong></p>
