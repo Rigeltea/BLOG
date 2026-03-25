@@ -1,6 +1,7 @@
 ---
-title: Taegyun Kim
+title: Taegyun kim
 ---
+
 
 
 <div style="display: flex; gap: 20px;">
