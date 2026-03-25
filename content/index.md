@@ -18,8 +18,6 @@ title:
 </div>
 
 
-
-
 ---
 # 👨🏻‍🎓 자기소개
 
@@ -62,8 +60,7 @@ title:
 ## 📺스마트 공장의 제어시스템 구축을 위한 생산품 품질 분류(2022)
 
 - Tabular data에 있는 이상치 유지 및 결측치를 0처리  F1 Score(0.65412 → **0.68412**)
-- Caboost에 feature_importances를 이용해서 columns 3331중에서 300개 추출 
-F1 Score (0.68412 → **0.70444**)
+- Caboost에 feature_importances를 이용해서 columns 3331중에서 300개 추출 F1 Score (0.68412 → **0.70444**)
 
 # 🛠  Stacks
 
@@ -89,15 +86,4 @@ F1 Score (0.68412 → **0.70444**)
 </div>
 </div>
 
-
-<div style="display: flex; gap: 20px; align-items: center;">  
-<div style="flex: 1;"> 
-<p><strong> SALMONN</strong></p>
-<img src="./attachment/cv-03.jpg" width="80%">  
-</div>
-<div style="flex: 1;">
-<p><strong> CV - 03 Model</strong></p>
-<img src="./attachment/cv-03.PNG" width="120%">  
-</div>
-</div>
 
