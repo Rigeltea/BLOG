@@ -3,10 +3,9 @@ title:
 ---
 
 
-
 <div style="display: flex; gap: 20px;">
 <div style="flex: 1;">
-<img src="./attachment/me.jpg" width="80%">
+<img src="./attachment/김태균.jpg" width="80%">
 </div>
 <div style="flex: 1;">
 <p>👨‍💻 <strong>Name : Tae Gyun Kim</strong></p>
@@ -16,6 +15,7 @@ title:
 <p><strong>✏️ Education : Kangnam University / Double Major in Data Science and Semiconductor System convergence</strong></p>
 </div>
 </div>
+
 
 ---
 # 👨🏻‍🎓 자기소개
